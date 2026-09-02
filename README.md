@@ -8,11 +8,12 @@ Modern critical infrastructure—spanning high-density data centers, aerospace p
 The SPIMA framework organizes decentralized physical infrastructure around six unified pillars that operate harmoniously at the hardware physics layer without central software oversight:
 
 1. Core Compute: Functions as the central physical anchor for localized, high-density computing, utilizing combinatorial logic gates and fixed-state physical circuits to replace traditional operating system kernels and eliminate software polling jitter.
- a. Thermodynamic Mass-Energy Balance Filtering
+ a. Thermodynamic Mass-Energy Balance Filtering:
   -Hardware-Level Physics Sanity Check: Telemetry circuits continuously calculate incoming power, outgoing power, storage rates, and thermal losses (\∆).  
   -Telemetry Packet Dropping: Data packets claiming energy distribution states that violate basic laws of physics beyond calibrated tolerances are dropped instantly.  
 
-2. Highway Power and Data Routing: Manages high-throughput power distribution, localized load balancing, and secure transport of energy and data across distributed modular nodes via direct physical contactors and isolated bus communication protocols.
+3. Highway Power and Data Routing: Manages high-throughput power distribution, localized load balancing, and secure transport of energy and data across distributed modular nodes via direct physical contactors and isolated bus communication protocols.
+   
   -Primary Ingress Power Normalization: Manages the boundary layer ingestion of variable energy feeds—including solar arrays, regional grid links, and local battery storage—automatically converting and standardizing raw inputs into clean, predictable power and data distribution corridors before routing them through the core hardware manifold.
   -Modular Segment Isolation & Plug-and-Play Integration: Utilizes standardized physical handshakes and hot-swap command structures that allow modular peripheral nodes and expansion segments to connect, authenticate, and integrate into the active infrastructure fabric dynamically without requiring centralized software configuration.
   -Differential Signaling: Modular peripheral nodes utilize hardwired point-to-point differential electrical signaling, completely avoiding software packet encapsulation.
@@ -103,12 +104,17 @@ Fail-Safe State Guarantee: Enforces absolute hardware-latched closure upon total
 
 ## Goals and Milestones
 
-  Phase 0: Global Prior Art & Novelty Verification (Completed) — Executed comprehensive worldwide patent and NPL searches, yielding zero direct hits and only 19 partial references to establish a verified novelty baseline.
-  Phase 1: Public Open-Source Release & GitHub Launch — Publishing the architectural whitepaper and macro-logic specifications to establish defensive prior art and open the GitHub Sponsors crowdfunding channel.
+Phase 0: Global Prior Art & Novelty Verification (Completed) — Executed comprehensive worldwide patent and NPL searches, yielding zero direct hits and only 19 partial references to establish a verified novelty baseline.
+  
+Phase 1: Public Open-Source Release & GitHub Launch — Publishing the architectural whitepaper and macro-logic specifications to establish defensive prior art and open the GitHub Sponsors crowdfunding channel.
+  
 Phase 2: IP Counsel Retainer & Non-Provisional Filing — Channeling community sponsorship revenue directly into specialized intellectual property counsel retainers to transition provisional application #64/136526 into a formal non-provisional utility patent.
-  Phase 3: Mathematical & Behavioral Simulation — Building hardware-neutral models to mathematically verify thermodynamic mass-energy balance filtering algorithms and deterministic processing loops.
+
+Phase 3: Mathematical & Behavioral Simulation — Building hardware-neutral models to mathematically verify thermodynamic mass-energy balance filtering algorithms and deterministic processing loops.
+  
 Phase 4: Bench-Top Hardware Prototyping — Fabricating isolated test rigs for the air-gapped forensic ancestry ledger, the one-way data diode, and high-frequency pulse injection circuits.
-  Phase 5: Pilot Integration & Economic Protocol Validation — Deploying physical prototypes to test hot-swap authentication, lifecycle state inheritance, and the hardware-enforced 40/40/20 throughput economic split.
+
+Phase 5: Pilot Integration & Economic Protocol Validation — Deploying physical prototypes to test hot-swap authentication, lifecycle state inheritance, and the hardware-enforced 40/40/20 throughput economic split.
  
 
 ## Support, Crowdsourcing & Non-Provisional Patent Funding
