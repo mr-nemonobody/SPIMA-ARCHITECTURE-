@@ -8,8 +8,8 @@ Modern critical infrastructure—spanning high-density data centers, aerospace p
 The SPIMA framework organizes decentralized physical infrastructure around six unified pillars that operate harmoniously at the hardware physics layer without central software oversight:
 
 1. Core Compute: Functions as the central physical anchor for localized, high-density computing, utilizing combinatorial logic gates and fixed-state physical circuits to replace traditional operating system kernels and eliminate software polling jitter.
-            Thermodynamic Mass-Energy Balance Filtering
-  -Hardware-Level Physics Sanity Check: Telemetry circuits continuously calculate incoming power, outgoing power, storage rates, and thermal losses (\Delta P).  
+ a. Thermodynamic Mass-Energy Balance Filtering
+  -Hardware-Level Physics Sanity Check: Telemetry circuits continuously calculate incoming power, outgoing power, storage rates, and thermal losses (\∆).  
   -Telemetry Packet Dropping: Data packets claiming energy distribution states that violate basic laws of physics beyond calibrated tolerances are dropped instantly.  
 
 2. Highway Power and Data Routing: Manages high-throughput power distribution, localized load balancing, and secure transport of energy and data across distributed modular nodes via direct physical contactors and isolated bus communication protocols.
@@ -18,8 +18,8 @@ The SPIMA framework organizes decentralized physical infrastructure around six u
   -Differential Signaling: Modular peripheral nodes utilize hardwired point-to-point differential electrical signaling, completely avoiding software packet encapsulation.
   -Hot-Swap Authentication: Dynamic physical handshakes verify hardware IDs and cryptographic parameters before opening primary fluid or power transit gates.
   -Heartbeat Monitoring: Loss of a valid hardware-level heartbeat signal within strict clock-cycle boundaries immediately triggers local node containment.
-  -Line Impedance Wire-Tap Detection through:
-a. High-Frequency Pulse Injection: Injects test pulses through protective circuits to measure signal reflections (Time-Domain Reflectometry) without damaging sensitive internal microchips.
+ -Line Impedance Wire-Tap Detection through:
+  a. High-Frequency Pulse Injection: Injects test pulses through protective circuits to measure signal reflections (Time-Domain Reflectometry) without damaging sensitive internal microchips.
 
 b. Physical Tamper Detection: Detects unauthorized wire splices, physical line taps, or signal interference on active transmission pathways in real time.  
 
@@ -27,7 +27,7 @@ b. Physical Tamper Detection: Detects unauthorized wire splices, physical line t
 
 5. Thermal Management: Combines phase-change material integration, active cooling circuitry, and rapid-actuation bypass loops to dissipate thermal energy, dampen high-frequency equipment noise, and manage dynamic temperature thresholds directly at the hardware layer.
 
-6. Water Purification: Manages closed-loop fluid dynamics, high-pressure containment, heat extraction, and multi-phasic molecular purification across liquid, vapor, and gaseous media within sub-millisecond temporal bounds.
+6. Water/Air Purification: Manages closed-loop fluid dynamics, high-pressure containment, heat extraction, and multi-phasic molecular purification across liquid, vapor, and gaseous media within sub-millisecond temporal bounds.
   -Fluid and Flow Energy Ingress: Governs multi-phasic fluid dynamics and liquid energy transport across all operational flow regimes (Re > 0), utilizing hardwired pilot valves and inline sensor matrices to ingest, monitor, and regulate fluid media without software latency.
 
 7. Agricultural Thermal Reuse: Replaces standard unheated irrigation by capturing excess infrastructural heat and fluid flow from the cooling manifold to warm fluid, carrying both thermal energy and precisely dosed liquid nutrients directly into the soil mound root zone to maximize absorption and growth.
