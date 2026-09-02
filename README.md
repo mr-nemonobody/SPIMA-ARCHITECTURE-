@@ -3,6 +3,10 @@ Sovereign Predictive Isolation Manifold (SPIMA): Architectural Whitepaper & Macr
 ## Abstract and System Philosophy
 Modern critical infrastructure—spanning high-density data centers, aerospace platforms, decentralized microgrids, and advanced agricultural networks—suffers from the systemic vulnerabilities of instruction-driven software abstraction layers. Operating system latency, software interrupt jitter, network-dependent control loops, and vulnerabilities to remote cyber-interference introduce catastrophic points of failure. Just as TCP/IP revolutionized information and data transit by providing an open, universal protocol layer that let disparate systems communicate reliably without central gatekeepers, the Sovereign Predictive Isolation Manifold (SPIMA) serves as the foundational TCP/IP for energy and physical infrastructure. By embedding deterministic logic, real-time calculus, and resource governance directly into a hardware-native, firmware-free domain, SPIMA establishes a universal, industry- and fluid-agnostic protocol layer that ensures absolute physical security, operational equity, and fault containment across all physical systems.
 
+## Proprietary Architecture & Trade-Secret Boundaries
+
+While the macro-level system logic, philosophy, and application architecture are published for public peer review, core implementation details are protected as proprietary trade-secret know-how. Specifically, exact microsecond telemetry timing tables (such as the precise latency breakdowns), component-level electrical schematics, and raw hardware description language (Verilog/VHDL) files are withheld from public disclosure. These proprietary elements are referenced conceptually within the framework to prove enablement under patent law while maintaining absolute trade-secret integrity.
+
 ## The Six System Pillars: Unified Software-Agnostic Infrastructure
 
 The SPIMA framework organizes decentralized physical infrastructure around six unified pillars that operate harmoniously at the hardware physics layer without central software oversight:
@@ -54,10 +58,6 @@ SPIMA embeds economic governance, derivative invention rights, and resource dist
 20% Secondary Community Reserve: Hardwired directly into the physical hardware layer via current-divider circuits and proportional hydraulic valve routing—and rendered fully transparent through the immutable forensic ancestry ledger—this allocation flows directly back into public infrastructure supporting community needs, including education, healthcare, and food security.  
 
 The architecture enforces corporate compliance, derivative equity rights, and public equity protection through hardware physics: any attempt to physically bypass, alter, or disconnect this automated distribution logic instantly generates a physical signal that traps main switches and locks down system operation.
-
-## Proprietary Architecture & Trade-Secret Boundaries
-
-While the macro-level system logic, philosophy, and application architecture are published for public peer review, core implementation details are protected as proprietary trade-secret know-how. Specifically, exact microsecond telemetry timing tables (such as the precise Phase 1 through Phase 5 latency breakdowns), component-level electrical schematics, and raw hardware description language (Verilog/VHDL) files are withheld from public disclosure. These proprietary elements are referenced conceptually within the framework to prove enablement under patent law while maintaining absolute trade-secret integrity.
 
 ## Immutable Forensic Ancestry Ledger: Asynchronous Auditing
 
