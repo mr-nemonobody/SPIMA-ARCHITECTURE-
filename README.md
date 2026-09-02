@@ -51,6 +51,8 @@ Forward-Locked Chain: Each compiled block incorporates the unique cryptographic 
 
 Zero-Latency & Air-Gapped Design: The ledger executes on an independent, air-gapped data plane via a one-way physical data diode and non-blocking hardware data shunt, guaranteeing that cryptographic logging introduces absolute zero clock cycles of latency jitter to the primary mechanical safety loop while preventing any inbound network vector.
 
+Lifecycle State Inheritance: Upon hot-swap deployment of a replacement manifold segment, the hardware interface enables the incoming node to passively read the verified, cryptographically locked Ancestry Ledger of the predecessor node via the air-gapped data plane. By ingesting this historical telemetry block, the replacement node immediately inherits cumulative stress cycle data, zero-point calibration adjustments, and environmental drift algorithms without central software configuration.
+
 ## Cross-Industry Application Architecture
 
 The SPIMA architecture provides software-, industry-, and fluid-agnostic deterministic hardware responses across diverse critical infrastructure sectors including, but not limited to:
@@ -66,6 +68,8 @@ Aerospace & Exploration: Guarantees deterministic life-support atmosphere regula
 ​Medical & Biotech: Deploys high-speed bio-filtering for BSL-3/4 research facilities, integrates mechanical infusion safety fuses for micro-fluidic drug delivery, and monitors dialysis flow integrity to prevent air embolisms.
 
 ​Chemical & Industrial Processing: Executes real-time exothermic runaway quenching in chemical reactor feeds, provides point-source hazardous spill containment, and utilizes smart-fuse manifold nodes to isolate hydrogen pipeline micro-leaks.
+
+Legacy Systems & Retrofit Compatibility: SPIMA is designed for drop-in integration across existing critical infrastructure. Utilizing standard mechanical interfaces, the manifold mounts directly inline within legacy fluid and power conduits without requiring system-wide overhauls. Because the core compute operates entirely within a firmware-free, bare-metal domain, it functions independently of legacy operating systems, eliminating software driver dependencies and OS compatibility friction. Furthermore, primary ingress power normalization continuously conditions noisy or unstable power feeds from aging utility connections, standardizing them before routing.
 
 ## Regulatory Compliance & Insurance Risk Mitigation
 
